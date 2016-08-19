@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  car: one
+  pid: MyString
+  mode: MyString
+  status: MyString
+  data: MyString
+  parsed: false
+
+two:
+  car: two
+  pid: MyString
+  mode: MyString
+  status: MyString
+  data: MyString
+  parsed: false
